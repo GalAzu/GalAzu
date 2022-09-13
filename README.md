@@ -30,6 +30,8 @@ So if you're:
 **Don't hesitate to contact, I love games and completely enthusiast about finding new interesting projects.**
 
 👇Contacts:
+
 website - www.galazul.com
+
 linkTree - https://linktr.ee/galazul
 
