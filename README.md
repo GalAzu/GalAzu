@@ -1,9 +1,13 @@
 Hey I'm Gal Azulay
+
 🧩A Game developer, 
+
 🎧Sound Engineer 
+
 🎹Music producer 
 
 🧩Game Audio Producer🎹
+
 I'm games enthusiast and was operating with Microsoft and organizing game jams in their hub under Universe Project name.
 Here you can find some of my work that I programmed as a solo developer.
 
