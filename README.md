@@ -12,7 +12,9 @@ Currently I'm a digital nomad, I love traveling and discovering new experiences.
 I'm freelancing as a game audio producer,making sound and music and holding the joy of seeing a game comes to a sonic life.
 
 Alongside that I'm in a deep learning process of:
+
 • Game design(Game psychology,environment design,creating 2D assets) and 
+
 • Audio development(JUCE framework and C++)
 
 **IMPORTANT** 
