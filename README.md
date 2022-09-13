@@ -20,7 +20,9 @@ Alongside that I'm in a deep learning process of:
 So if you're:
 
 • Looking to hire a C# programmer that specialize with Unity(5 years of experience).
+
 • Having a project that looks for audio production or just need help with your game audio.
+
 • Got any game jams, meetups, other game industry activity or games related events
 
 **Don't hesitate to contact, I love games and completely enthusiast about finding new interesting projects.**
