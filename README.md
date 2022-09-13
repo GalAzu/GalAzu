@@ -9,7 +9,7 @@ Hey I'm Gal Azulay
 
 **🧩Game Audio Producer🎹**
 
-I'm games enthusiast and was operating with Microsoft and organizing game jams in their hub under Universe Project name.
+I'm a games enthusiast and was operating with Microsoft and organizing game jams in their hub under Universe Project name.
 Here you can find some of my work that I programmed as a solo developer.
 
 About Me
