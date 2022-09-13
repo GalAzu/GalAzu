@@ -33,6 +33,6 @@ So if you're:
 👇Contacts:
 
 website - www.galazul.com
-
+itch.io - https://galazul.itch.io/
 linkTree - https://linktr.ee/galazul
 
