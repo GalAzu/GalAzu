@@ -10,8 +10,8 @@ Hey I'm Gal Azulay
 **🧩Game Audio Producer🎹**
 
 I'm freelancing as a game audio producer,making sound and music and holding the joy of seeing a game comes to a sonic life.
-I've been doing music since ever and I'm a huge fan of foley , sound design and post production.
-As part of my passion to game I've been exploring the field of game audio at the past 7 years.
+I've been doing music since ever and I'm a in love with foley , sound design and post production.
+As part of my passion to games I've been exploring the field of game audio at the past 7 years.
 Working with:
 Unity, Unreal, Cubase, Ableton, Fmod, Wwise, Game Maker and keep learning new approaches to sound through technology.
 
