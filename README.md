@@ -2,9 +2,7 @@ Hey I'm Gal Azulay
 
 🧩Game developer, 
 
-🌐Web Developer
-
-🎧Audio Engineer & Producer 
+🎧Audio Engineer & Developer
 
 **🧩Game Development and Audio**
 
@@ -12,7 +10,6 @@ I'm freelancing as a game audio producer,making sound and music and holding the 
 I've been doing music since ever and I'm a in love with foley , sound design and post production.
 
 Beside me being an audio head, I am a self taught software developer, specializing with Unity engine and C#, I was working on various projects in different scales.
-At the past year I've been expanding my skills to web development and I'm making sure to put effort in polishing my skills and honing my knowledge as a software developer.
 
 Technologies and Stack:
 C# , Unity, C++ , JUCE, Unreal, Ableton, Cubase, HTML, CSS, js
@@ -22,7 +19,7 @@ C# , Unity, C++ , JUCE, Unreal, Ableton, Cubase, HTML, CSS, js
 Currently I'm a digital nomad, working on different projects and seeking new opportunities in the field of game audio and unity development.
 So if you're:
 
-• Looking to hire a C# programmer that specialize with Unity(5 years of experience).
+• Looking to hire a C# programmer that specialize with Unity
 
 • Having a project that looks for audio production or just need help with your game audio.
 
